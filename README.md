@@ -1,4 +1,4 @@
-# Diabeted-prediction-System
+# Diabetes-prediction-System
 I developed this diabetes prediction system using Python .
 ### Techniques Used
 
